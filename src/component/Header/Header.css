@@ -1,0 +1,28 @@
+.NavBar{
+    background-color: #2C3333 !important;
+    padding: 10px 30px;
+}
+.logo{
+    color: white;
+    font-size: 30px;
+    margin-right: 35rem;
+    text-decoration: none;
+}
+.logo:hover{
+    color: white;
+    text-decoration: none;
+}
+.rightLink{
+    color: #fff;
+}
+li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-size: 22px;
+}
+li a:hover{
+    background-color: #fff;
+    color: #2C3333;
+    border-radius: 7px;
+}
